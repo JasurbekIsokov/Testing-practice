@@ -1,3 +1,1 @@
-class Calc {}
-
-export default Calc;
+export class Calc {}
